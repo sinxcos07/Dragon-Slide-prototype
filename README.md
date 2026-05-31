@@ -14,3 +14,6 @@ A small prototype built in Unity.
 - Player movement
 - Basic environment
 - Prototype mechanics
+
+## Author
+Suryansh Sinha (sinxcos07)
